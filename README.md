@@ -72,7 +72,7 @@
       align-items: center;
       text-align: center;
       background: linear-gradient(to bottom right, #1e293b, #0f172a);
-      background-image:url(solo1.jpg);
+      background-image:url(https://github.com/user-attachments/assets/cf34a9e6-ec01-4566-a04f-0ad8d1a8403c);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
