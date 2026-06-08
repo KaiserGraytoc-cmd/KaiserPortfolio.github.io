@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -235,7 +236,7 @@
   <!-- HOME -->
   <section id="home">
     <!-- 🖼️ PROFILE PICTURE -->
-    <img src="https://github.com/user-attachments/assets/442dd5d6-0f67-48d3-98eb-544067bdb9ff" alt="Profile Picture" />
+    <img src="https://github.com/user-attachments/assets/3c78ebc5-9053-47e3-af3b-00aee9f17b3b" alt="Screenshot 2026-06-08 114440" />
 
     <h2>Hello, I'm <span style="color:#38bdf8;">Daytoc Neo</span></h2>
     <p>A passionate front-end developer skilled in HTML, CSS, and JavaScript. I build clean, responsive, and interactive websites.</p>
