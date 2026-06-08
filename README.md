@@ -234,7 +234,7 @@
   <!-- HOME -->
   <section id="home">
     <!-- 🖼️ PROFILE PICTURE -->
-    <img src="daytocg.jpg" alt="Profile Picture" />
+    <img src="https://drive.google.com/file/d/1E5g7OH4IQYsK2JRzyz90iIubi5q-cJaT/view?usp=drivesdk" alt="Profile Picture" />
 
     <h2>Hello, I'm <span style="color:#38bdf8;">Daytoc Neo</span></h2>
     <p>A passionate front-end developer skilled in HTML, CSS, and JavaScript. I build clean, responsive, and interactive websites.</p>
