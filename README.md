@@ -575,7 +575,7 @@ footer .dot{color:var(--accent);}
     <h2>Let's connect.</h2>
     <p class="lede2">Open to OJT placements, internships, and conversations about networking and security. Reach out anytime.</p>
     <div class="links">
-      <a href="mailto:neo.daytoc@example.com">✉ neo.daytoc@example.com</a>
+      <a href="mailto:neogdaytoc@gmail.com">✉ neogdaytoc@gmail.com</a>
       <a href="#">GitHub</a>
       <a href="#">LinkedIn</a>
     </div>
