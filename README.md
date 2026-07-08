@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -403,7 +404,7 @@ footer .dot{color:var(--accent);}
   <div class="profile-wrap">
     <div class="profile-card" id="profileCard">
       <div class="tilt" id="profileTilt">
-        <img src="profile.png" alt="Neo Garay Daytoc" />
+        <img src="https://github.com/user-attachments/assets/6f3d3946-6c57-4473-a9aa-220cd35d2a73" alt="Neo Garay Daytoc" />
         <div class="scan"></div>
         <div class="frame-corner fc-tl"></div>
         <div class="frame-corner fc-tr"></div>
